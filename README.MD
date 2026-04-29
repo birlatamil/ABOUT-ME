@@ -39,15 +39,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" alt="Birla's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium" alt="Birla's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=birlatamil&show_icons=true&theme=radium" alt="Birla's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=birlatamil&theme=radium" alt="Birla's GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birlatamil&layout=compact&theme=radium" alt="Top Languages" />
 </div>
 
-> **Note:** Remember to replace `YOUR_GITHUB_USERNAME` in the URLs above with your actual GitHub username to load your stats!
 
 ---
 
